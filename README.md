@@ -23,7 +23,8 @@ A sleek, dark-themed BMI calculator built with Jetpack Compose for Android. Calc
 - **Android Architecture** - Following best practices
 
 ## 📱 Screenshots
-![EmeraldFit Screenshot](screenshots/EmeraldFit.jpeg)
+
+![EmeraldFit](https://github.com/user-attachments/assets/9ddcf773-72e7-4ec9-9950-2e67a5886053)
 
 
 *Add your app screenshots here*
@@ -37,7 +38,7 @@ A sleek, dark-themed BMI calculator built with Jetpack Compose for Android. Calc
 
 ### Installation
 1. Clone the repository
-``![EmeraldFit](https://github.com/user-attachments/assets/9ddcf773-72e7-4ec9-9950-2e67a5886053)
+``
 `bash
 git clone https://github.com/YOUR_USERNAME/EmeraldFit.git
 ```
